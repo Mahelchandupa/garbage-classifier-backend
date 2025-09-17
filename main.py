@@ -26,9 +26,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:3000",
         "http://localhost:3001", 
-        "https://*.vercel.app",
-        "https://*.netlify.app",
-        "https://your-frontend-domain.com",
+        "https://semicolon-garbage-classifier.netlify.app",
         "http://127.0.0.1:5500"
     ],
     # allow_origins=["*"],  # Allow all origins for development
