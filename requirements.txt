@@ -5,3 +5,4 @@ tensorflow==2.17.0
 tensorflow_intel==2.17.0
 uvicorn[standard]==0.24.0
 python-multipart==0.0.6
+setuptools>=65.0.0
